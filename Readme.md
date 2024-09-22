@@ -1,4 +1,4 @@
- # Host a website using Docker and Nginx <br/>
+ # Hosting website using Docker and Nginx <br/>
  - Login to your AWS account and download your passkey and launch the EC2 instance.  
 - Launch PuTTY and add the IP address from instance and add key pair file and open the PuTTY terminal.
 - Login to the OS by writing "ubuntu"
